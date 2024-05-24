@@ -1,0 +1,28 @@
+header {
+    background-color: blueviolet;
+    color: bisque;
+}
+.cabecalho.imagem{
+    width:30%;
+}
+.cabecalho {
+    background-color: blueviolet;
+    color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalho.lista.item{
+    display: inline-block;
+    margin:0 16px;
+    padding:0 24px;
+    justify-content: space-around;
+    font-size: 24px;
+}
+.escola-imagem {
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(blueviolet,#383d58);
+    color: bisque;
+    display: flex;
+}
