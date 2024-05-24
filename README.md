@@ -1,4 +1,4 @@
-# site-pessoal sou aluna do colegio estadual marechal castelo branco 
+# sou aluna do colegio estadual marechal castelo branco 
 meu nome é maria vitoria taci da silva
 sou trancista
 idade:16
