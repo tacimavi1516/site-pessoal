@@ -1,13 +1,13 @@
 header {
     background-color: blueviolet;
-    color: bisque;
+    color: rgb(1, 203, 253);
 }
 .cabecalho.imagem{
     width:30%;
 }
 .cabecalho {
     background-color: blueviolet;
-    color: bisque;
+    color: rgb(1, 203, 253);
     display: flex;
     justify-content: space-around;
 }
@@ -23,6 +23,6 @@ header {
 }
 .escola{
     background-image: linear-gradient(blueviolet,#383d58);
-    color: bisque;
+    color: rgb(1, 203, 253)
     display: flex;
 }
