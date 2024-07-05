@@ -18,10 +18,11 @@ header {
     justify-content: space-around;
     font-size: 24px;
 }
-.escola-imagem {
-    width: 25%;
+.mavi-imagem {
+    width:30%;
+    height:30%;
 }
-.escola{
+.mavi{
     background-image: linear-gradient(blueviolet,#383d58);
     color: rgb(1, 203, 253)
     display: flex;
