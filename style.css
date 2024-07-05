@@ -22,9 +22,6 @@ header {
     width:20%;
     height:20%;
 }
-.mavi-imagem{
-    background-color: #383d58;
-}
 .mavi{
     background-image: linear-gradient(blueviolet,#383d58);
     color: rgb(1, 203, 253)
